@@ -11,6 +11,9 @@ Download Claymore 11.0 Ethereum Miner No DevFee Below
 ## Direct download link:
 https://github.com/weezy007/claymore-v.11-no-dev-fee/raw/master/claymore%20v11%20nodevfee.zip
 
+SOURCE:
+https://github.com/weezy007/claymore-v.11-no-dev-fee/raw/master/claymore-v.11-no-dev-fee_SOURCE.zip
+
 ## FAQ 
 Will it work for future releases of Claymore ?
 
