@@ -6,6 +6,10 @@ This is v11 of Claymore Ethereum Miner with the DevFee removed
 The "EthDcrMiner64.exe" is patched. You don't have to do anything, just start mining with the usual .bat
 
 Once devfee mining is triggered it will mine to your address instead of developers. To make sure everything is working properly check the mining .txt logs for any "eth_submitLogin" where your address doesn't appear. If there are any then restart mining again and it should work properly. Otherwise contact me.
+
+Claymore claims he detects hacks, which will cause the real hashrate to got down.
+This one is undetected! You will see your effective hashrate calculated from the submitted share go up. Try yourself.
+
 Download Claymore 11.0 Ethereum Miner No DevFee Below
 
 ## Direct download link:
