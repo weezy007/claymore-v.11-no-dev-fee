@@ -19,7 +19,7 @@ Will it work for future releases of Claymore ?
 Lower Hashrate than with original Claymore?
 
 -Please run it for at least 12-24h, to make up for the downtime when you sitched to the no fee version and even out the usual volatility.
-######## Tips ETH : 
+######## Tips ETH : 0x0F9984cFe2482cD38D21B3dE2741f9142FA95FD7
 
 Tags:
 Claymore 11 Claymore 11 Miner Claymore 11 Ethereum Miner Claymore 11 No Fee Claymore No DevFee 11 Claymore Miner AMD Nvidia Ethereum Claymore Miner Ethereum Claymore Miner 11 Ethereum Claymore No Fee Miner DevFee Claymore Remove Remove DevFee ClaymoreEthDcrMiner64.exe Remove Developers Fee
