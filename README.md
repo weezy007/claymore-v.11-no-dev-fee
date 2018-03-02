@@ -9,7 +9,7 @@ Once devfee mining is triggered it will mine to your address instead of develope
 Download Claymore 11.0 Ethereum Miner No DevFee Below
 
 ## Direct download link:
-
+https://github.com/weezy007/claymore-v.11-no-dev-fee/raw/master/claymore%20v11%20nodevfee.zip
 
 ## FAQ 
 Will it work for future releases of Claymore ?
