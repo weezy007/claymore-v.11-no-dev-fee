@@ -15,6 +15,8 @@ https://github.com/weezy007/claymore-v.11-no-dev-fee/raw/master/claymore%20v11%2
 SOURCE:
 https://github.com/weezy007/claymore-v.11-no-dev-fee/raw/master/claymore-v.11-no-dev-fee_SOURCE.zip
 
+If you are having trouble with the windows defender, just create your own .bat file or make an exception to the default bat file.
+
 
 
 
